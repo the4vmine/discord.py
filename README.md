@@ -21,8 +21,7 @@ This is a basic template for creating a Discord bot using the `discord.py` libra
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/4vmine/DiscordBotTemplate
-    cd DiscordBotTemplate
+    git clone https://github.com/the4vmine/discord.py
     ```
 
 2. **Install the required dependencies:**
